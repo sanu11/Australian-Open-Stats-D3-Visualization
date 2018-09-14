@@ -5,7 +5,6 @@ Used Tabletop library to get data from above googlesheet.<br>
 Used bar, line and pie chart to represent information from the dataset.<br>
 Interaction techniques like hover, sort, overview->detail are used.<br>
 Used d3pie library to draw pie chart. Its a library built on top of d3 to draw attractive pie charts.<br>
-Open index.html to view the page.
 
 
 
